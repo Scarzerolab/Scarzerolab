@@ -3,23 +3,7 @@
 My name is [Phantom Megaditha](https://www.instagram.com/wayphantomme/), and I am an undergraduate student at ITB Stikom Bali, majoring in Digital Business. I am currently studying Web Development, and this Github account will serve as a witness to my short journey of learning and growth in this field.
 
 ## 💻 Technologies & Tools
-![HTML5]
-![CSS3]
-![JavaScript]
-![Next JS]
-![TailwindCSS]
-![Bootstrap]
-![NodeJS]
-![MongoDB]
-![MySQL]
-![GitHub]
-![Visual Studio Code]
-![Unity]
-![Unreal]
-![blender]
-![c#]
-![c++]
-![python]
+🔹 HTML5: 🌐 🔹 CSS3: 🎨 🔹 JavaScript: 🚀 🔹 Next JS: ⏭️ 🔹 TailwindCSS: 💨 🔹 Bootstrap: 🥾 🔹 NodeJS: 🟢 🔹 MongoDB: 🍃 🔹 MySQL: 🗄️ 🔹 GitHub: 🐙 🔹 Visual Studio Code: 📝 🔹 Unity: 🎮 🔹 Unreal: 🌌 🔹 Blender: 🌀 🔹 C#: ©️ 🔹 C++: ➕➖ 🔹 Python: 🐍
 
 ## 📞 Connect with me
 
