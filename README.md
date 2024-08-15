@@ -1,6 +1,6 @@
 # WASSAP! 😎
 
-My name is [Phantom Megaditha](https://www.instagram.com/wayphantomme/), and I am an undergraduate student at ITB Stikom Bali, majoring in Digital Business. I am currently studying Web Development, and this Github account will serve as a witness to my short journey of learning and growth in this field.
+👋 Hi, I’m [Trahwidhi!](https://www.linkedin.com/in/trahwidhi-oxtan/) An undergraduate student at ITB Stikom Bali, majoring in Information Technologi or simply computer science. I’m currently studying web development (both web2 and web3), diving into game development with Unity and Godot, and sharpening my Python skills. This GitHub account serves as a place to share and learn about my progress. Let’s collaborate and grow together! 🌟
 
 ## 💻 Technologies & Tools
 🔹 HTML5: 🌐 🔹 CSS3: 🎨 🔹 JavaScript: 🚀 🔹 Next JS: ⏭️ 🔹 TailwindCSS: 💨 🔹 Bootstrap: 🥾 🔹 NodeJS: 🟢 🔹 MongoDB: 🍃 🔹 MySQL: 🗄️ 🔹 GitHub: 🐙 🔹 Visual Studio Code: 📝 🔹 Unity: 🎮 🔹 Unreal: 🌌 🔹 Blender: 🌀 🔹 C#: ©️ 🔹 C++: ➕➖ 🔹 Python: 🐍
